@@ -13,3 +13,7 @@ conan install conanfile.txt --build=missing
 ```
 
 Which will locally install and build necessary missing dependencies.
+
+## Current step
+
+Currently trying to figure out how to use CMake to build this project.

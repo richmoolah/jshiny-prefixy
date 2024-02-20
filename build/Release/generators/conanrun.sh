@@ -1,0 +1,1 @@
+. "/Users/richardxu/Projects/jshiny-prefixy/build/Release/generators/conanrunenv-release-armv8.sh"
